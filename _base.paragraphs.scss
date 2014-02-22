@@ -8,5 +8,5 @@
  */
 .#{$inuit-namespace}lede,
 %#{$inuit-namespace}lede {
-    @include font-size($inuit-base-font-size * 1.125);
+    @include inuit-font-size($inuit-base-font-size * 1.125);
 }
