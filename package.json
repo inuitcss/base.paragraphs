@@ -1,0 +1,25 @@
+{
+  "name": "inuit-paragraphs",
+  "version": "0.1.4",
+  "description": "Base paragraph styles for the inuitcss framework",
+  "main": "_base.paragraphs.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inuitcss/base.paragraphs.git"
+  },
+  "author": "Harry Roberts <harry@csswizardry.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/inuitcss/base.paragraphs/issues"
+  },
+  "homepage": "https://github.com/inuitcss/base.paragraphs",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "dependencies": {
+    "inuit-defaults": "~0.2.0",
+    "inuit-mixins": "~0.2.2"
+  }
+}
