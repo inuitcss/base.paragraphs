@@ -10,7 +10,7 @@
 // Predefine the variables below in order to alter and enable specific features.
 $inuit-lede-size:   1.125 !default;
 
-.#{$inuit-namespace}lede,
-%#{$inuit-namespace}lede {
+.#{$inuit-namespace}u-lede,
+%#{$inuit-namespace}u-lede {
     @include inuit-font-size($inuit-base-font-size * $inuit-lede-size);
 }

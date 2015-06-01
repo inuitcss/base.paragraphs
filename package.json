@@ -1,8 +1,8 @@
 {
   "name": "inuit-paragraphs",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Base paragraph styles for the inuitcss framework",
-  "main": "_base.paragraphs.scss",
+  "main": "_trumps.paragraphs.scss",
   "repository": {
     "type": "git",
     "url": "https://github.com/inuitcss/base.paragraphs.git"
